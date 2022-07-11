@@ -13,6 +13,7 @@ with open("C:\\Users\\ohjh0\\OneDrive\\바탕 화면\\19-21_수능_문장_영어
 
 sys.stdout.close()
 
+#as
 
 sys.stdout =open("C:\\Users\\ohjh0\\OneDrive\\바탕 화면\\19-21_수능_문장_영어_문장길이.csv", "w", encoding="utf-8")
 
